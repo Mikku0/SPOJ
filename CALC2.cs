@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+// task: https://pl.spoj.com/problems/CALC2/
+
 public class CALC2
 {
     public static void Main()

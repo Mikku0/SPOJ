@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+
+// task: https://pl.spoj.com/problems/VSR/
+
 int v1,v2,ile;
 int main()
 {

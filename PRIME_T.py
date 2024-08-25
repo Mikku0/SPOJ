@@ -1,3 +1,5 @@
+# // task: https://pl.spoj.com/problems/PRIME_T/
+
 def is_prime(num):
     if num < 2:
         return "NIE"

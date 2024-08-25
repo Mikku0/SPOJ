@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+// task: https://pl.spoj.com/problems/PP0502B/
+
 namespace 
 {
     public class PP0502B

@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// task: https://pl.spoj.com/problems/FCTRL3/
+
 public class FCTRL3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

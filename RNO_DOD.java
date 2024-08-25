@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// task: https://pl.spoj.com/problems/RNO_DOD/
+
 public class RNO_DOD {
     public static void main(String[] args) throws java.lang.Exception {
         Scanner sc = new Scanner(System.in);

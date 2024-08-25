@@ -1,5 +1,7 @@
 using System;
 
+// task: https://pl.spoj.com/problems/PA05_POT/
+
 class PA05_POT
 {
     static int FactorialLastDigit(int num1, int num2)

@@ -1,4 +1,6 @@
 # Rozwiązania zadań SPOJ
 
 ## Opis
-Ten repozytorium zawiera rozwiązania zadań ze strony [SPOJ](https://pl.spoj.com/).
+- **PL** To repozytorium zawiera rozwiązania zadań z polskiej strony [SPOJ](https://pl.spoj.com/).
+
+- **EN** This repository contains solutions to problems from the Polish [SPOJ](https://pl.spoj.com/) website.

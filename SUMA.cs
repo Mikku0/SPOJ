@@ -1,5 +1,7 @@
 using System;
 
+// task: https://pl.spoj.com/problems/SUMA/
+
 public class SUMA
 {
     static void Main(string[] args)
