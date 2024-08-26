@@ -5,9 +5,7 @@ using System.Threading.Tasks;
 
 // task: https://pl.spoj.com/problems/PP0502B/
 
-namespace 
-{
-    public class PP0502B
+public class PP0502B
     {
         int n = int.Parse(Console.ReadLine());
         for (int i = 0; i < n; i++) {
@@ -27,5 +25,4 @@ namespace
             }
             Console.WriteLine();
         }
-    }
 }
